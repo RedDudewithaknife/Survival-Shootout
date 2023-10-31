@@ -16,11 +16,14 @@ Press the green flag to start
 
 ### Executing program
 
-* Q to fire left
-* E to fire right
+* W to move up
+* S to move down
 * A to move left
 * D to move right
-* Do NOT stand still
+* SPACE to fire
+* R to reload
+* F to heal (10 second CD)
+
 
 ## Authors
 
